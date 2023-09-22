@@ -1,0 +1,10 @@
+shutil
+selenium
+gtts
+bs4
+requests
+webbrowser
+
+pyttsx3
+playsound
+speech_recognition

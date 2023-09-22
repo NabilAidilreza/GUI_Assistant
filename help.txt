@@ -1,0 +1,14 @@
+---------------
+Local Commands ... open --> opens up a software
+               .
+               ... create --> create new file or folder
+	       .
+               ... move --> move file or folder
+---------------
+Global Commands ... search --> directly searches online
+               .
+               ... get --> ?
+---------------
+General Commands ... exit/escape --> exit window
+               .
+               ... help --> opens up help.txt
